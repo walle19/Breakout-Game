@@ -44,3 +44,11 @@ settings)
 game screen and tap to start)
 9. Score is given for each brick destroyed which is further based on speed of ball, paddle length and number
 of ball(s)
+
+### Author
+
+[Nikhil Wali](https://github.com/walle19)
+
+### License
+
+Copyright © 2016, [Nikhil Wali](https://github.com/walle19).
